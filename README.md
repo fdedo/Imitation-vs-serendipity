@@ -1,5 +1,3 @@
-# Imitation_vs_Serendipity
-
 This repository contains the code developed for the paper:
 
 **De Domenico, F., Caccioli, F., Livan, G., Montagna, G., & Nicrosini, O. (2024). _Imitation versus serendipity in ranking dynamics_. Royal Society Open Science, 11(7), 240177.**
